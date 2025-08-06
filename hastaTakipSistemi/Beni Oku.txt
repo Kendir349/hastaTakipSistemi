@@ -1,0 +1,19 @@
+						Uygulamamı Kurduğunuz İçin Teşekkürler
+
+
+---------------------------------------------Uygulamanın düzgün Çalışması için Adımlar----------------------------------------
+
+1-SQL Server programını açın uygulama yok ise bu linkten indiriniz
+ https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads
+
+2-Yeni bir veri tabanı oluşturunuz
+
+3-Sunucu adınızı kopyalayınız
+
+4-Uygulamayı açın Karşınıza Veri tabanı ayarları çıkacak 
+
+5-Windows kimlik doğrulaması kullanıyorsanız direkt sunucu adınızı ve veri tabanı adınızı ilgileri yerlere yapıştırınız
+
+6-SQL server kimlik doğrulaması kullanıyorsanız kullanıcı adınızı ve şifrenizi'de giriniz
+
+7-Kaydet butonuna basınız
